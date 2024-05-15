@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irchika
+- 👋 Hi, I’m Ira
 - 👀 I’m interested in programming, reading books and video games.
 - 🌱 I’m currently learning Python and SQL.
 - ⚡ Fun fact: I like lemons but I don't like lemon food.
